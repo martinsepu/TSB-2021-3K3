@@ -28,6 +28,7 @@ public class Arreglo {
                     if(vector[i]%j==0){
                         break;
                         noesPrimo = true;
+
                     }
                 }
                 if(noesPrimo)
